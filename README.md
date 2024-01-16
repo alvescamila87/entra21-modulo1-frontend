@@ -1,5 +1,7 @@
-# Entra21 Blusoft - Programa: Desenvolvedor Web | Backend -> Módulo 1 - Front-end
- Repositório de estudos para o programa Entra21 da Blusoft, referente ao módulo 1 voltador para Front-end
+# Entra21 Blusoft - Programa: Desenvolvedor Web | Backend JAVA
+
+## Módulo 1 - Front-end
+Repositório de estudos para o programa Entra21 da Blusoft, na qualificação profissional de Desenvolvedor Web | Backend Java, tendo como objetivo o módulo 1 voltado para Front-end, com 70hs de carga horária
 
 ## Stacks do módulo 1 de Front-end
 * Lógica de programação
