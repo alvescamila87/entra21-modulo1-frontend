@@ -1,0 +1,24 @@
+div {
+   width: 200px; 
+   height: 30px;
+   color: white;
+   font-size: 15px;
+}
+
+#box1 {
+    background: blue;
+}
+
+#box2 {
+    background: red;
+    /*Border*/
+    border: 2px solid black;
+    /*Padding: espaçamento interno do elemento, ao redor do conteúdo*/
+    padding: 20px;
+    /*Margin: espaçamento externo do elemento*/
+    margin: 10px;
+}
+
+#box3 {
+    background: green;
+}
