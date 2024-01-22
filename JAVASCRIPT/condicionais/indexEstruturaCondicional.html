@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+  <head>
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  </head>
+  <body>
+    <form action="javascript:void(0);">
+      <label>Escolha seu sexo</label>
+      <input type="radio" name="sexo" id="feminino"><label>Feminino</label>
+      <input type="radio" name="sexo" id="masculino"><label>Masculino</label>
+      <input type="submit" id="button">
+    </form>
+  </body>
+
+  <script>
+   $('#button').click(function(){
+      if($('#feminino').is(':checked')){
+        alert("Você escolheu feminino");
+      }else if($('#masculino').is(':checked')){
+        alert('Você escolheu masculino');
+      }else{
+        alert('Você não escolheu');
+      }
+    });
+  </script>
+</html>
