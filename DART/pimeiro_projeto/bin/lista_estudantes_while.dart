@@ -3,5 +3,10 @@ void main() {
   var quantidadeDeEstudantes = listaEstudantes.length;
   print(quantidadeDeEstudantes);
 
-  for
+  var indice = 0;
+
+  while (indice < quantidadeDeEstudantes) {
+    print(listaEstudantes[indice]);
+    indice++;
+  }
 }
