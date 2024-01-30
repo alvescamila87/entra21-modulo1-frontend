@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+img {
+    max-width: 20%;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+footer {
+    background-color: #cccccc;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
