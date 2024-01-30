@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: blueviolet;
+    height: 60px;
+}
+
+section {
+    display: flex;
+}
+
+div {
+    flex-direction: column;
+}
+
+article {
+    padding: 10px;
+    margin: 10px;
+    background-color: burlywood;
+}
+
