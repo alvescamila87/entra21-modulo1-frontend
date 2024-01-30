@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: blueviolet;
+    height: 60px;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    padding: 1dvh;
+    margin: 10px;
+    background-color: burlywood;
+}
+
